@@ -1,4 +1,5 @@
 # EJERCICIO 1 JELKO LOOR BERMUDEZ
-print("hola mundo o hello world o hi")
+print("hola mundoooooo")
 archivo=open("informacion.txt")
 print(archivo.read())
+# FIN EJERCICIO
