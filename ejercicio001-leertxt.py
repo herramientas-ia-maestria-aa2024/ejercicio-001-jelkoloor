@@ -2,4 +2,3 @@
 print("hola mundoooooo")
 archivo=open("informacion.txt")
 print(archivo.read())
-# FIN EJERCICIO
